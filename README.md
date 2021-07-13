@@ -43,6 +43,51 @@ Here are some ideas to get you started:
 [<img src="https://geo-python.github.io/site/2019/_images/pandas_logo.png" alt="pandas" title="Pandas" width="48">](#) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="numpy" title="NumPy" width="48">](#) | [<img src="https://image.pngaaa.com/242/4152242-middle.png" alt="matplotlib" title="MatplotLib" width="48">](#) | [<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" title="Seaborn" width="48">](#) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" title="Scikit Learn" width="48">](#) | [<img src="https://img.icons8.com/color/452/power-bi.png" alt="power-bi" title="Power BI" width="48">](#)
 |---|---|---|---|---|---|
 
+
+## Complementary Courses 📚
+
+<hr>
+
+```python
+courses = [
+  {
+    "name": "Big Data Analytics com R e Microsoft Azure Machine Learning"
+    "from": "Data Science Academy"
+    "hours": 108,
+    "completed_at": 18-06-2021
+  },
+  {
+    "name": "Microsoft Power BI para Data Science"
+    "from": "Data Science Academy"
+    "hours": 72,
+    "completed_at": 15-02-2020
+  },
+  {
+    "name": "Python Fundamentos para Análise de Dados"
+    "from": "Data Science Academy"
+    "hours": 54,
+    "completed_at": 16-01-2020
+  },
+  {
+    "name": "Conceitos e melhores práticas com bancos de dados PostgreSQL"
+    "from": "Digital Innovation One Inc."
+    "hours": 6,
+    "completed_at": 22-06-2021
+  },
+  {
+    "name": "Introdução ao MongoDB e Bancos de Dados NoSQL"
+    "from": "Digital Innovation One Inc."
+    "hours": 6,
+    "completed_at": 22-06-2021
+  },
+  {
+    "name": "Neural Networks and Deep Learning"
+    "from": "DeepLearning.AI"
+    "hours": 25,
+    "completed_at": 04-04-2021
+  }
+]
+```
 ## Projects
 
 ### Data Analysis
