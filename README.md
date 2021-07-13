@@ -82,10 +82,21 @@ Here are some ideas to get you started:
 
 [<img src="https://img.icons8.com/color/452/power-bi.png" alt="power-bi" title="Power BI" width="48">](#) ⭐️ ⭐️
 
-### Projects
+## Projects
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate) -->
+### Data Analysis
+<hr/>
 
+### R
+
+* <a href="https://www.kaggle.com/hiagow/data-anlysis-with-covid-19-data-from-brazil-5-21"> Data anlysis with COVID-19 data from Brazil (Kaggle) </a>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=TalkingData-FraudDetection&show_owner=true)](https://github.com/HiagoW/TalkingData-FraudDetection)
+
+### Python
+
+* <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-svm">Getting started with Titanic - SVM (Kaggle)</a>
+* <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-randomforest">Getting started with Titanic - Random Forest (Kaggle)</a>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -94,6 +105,9 @@ Here are some ideas to get you started:
 <a href="mailto:hiago.petris@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hiago.petris@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+### Power BI
+
+...
 
 
 ⭐️ Template From [@anandmainali](https://github.com/anandmainali)
