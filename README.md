@@ -106,7 +106,8 @@ courses = [
 
 ### Power BI
 
-...
+* <a href="https://www.dropbox.com/s/qrel3upr7z462k2/Dashboard.pdf?dl=0">Pedidos de crédito com garantia de imóvel</a>
+* 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
