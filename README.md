@@ -144,6 +144,18 @@ courses = [
 * <a href="https://www.dropbox.com/s/qrel3upr7z462k2/Dashboard.pdf?dl=0" target="_blank">Pedidos de crédito com garantia de imóvel</a>
 * <a href="https://1drv.ms/b/s!As-YQNdbq695rkUdSZFAZ7YDyAwp?e=W7VgDM" target="_blank">Dashboard - Automóveis</a>
 
+## Github stats :bar_chart:
+
+<!-- Source: https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/code-styled/AnhellO.md -->
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{HiagoW}/count.svg" alt="HiagoW :: Visitor's Count" /></p>
+
+## Top languages :tongue:
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoW&langs_count=10&theme=tokyonight&layout=compact" alt="HiagoW :: Top Langs" /></p>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -154,4 +166,5 @@ courses = [
 
 <hr>
 
-<small>⭐️ Template From [@anandmainali](https://github.com/anandmainali)</small>
+
+<small>⭐️ Templates From [@anandmainali](https://github.com/anandmainali) and [@AnhellO](https://github.com/AnhellO)</small>
