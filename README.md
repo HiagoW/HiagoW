@@ -161,7 +161,7 @@ courses = [
 <h3> 🤝🏻 Contatos </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hiago-petris/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hiago-petris-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hiago-petris/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hiago.petris-blue?style=flat&logo=linkedin"></a>
  <a href="https://www.kaggle.com/hiagow/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-@hiagow-blue?style=flat&logo=kaggle"></a>
 <a href="mailto:hiago.petris@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hiago.petris@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
