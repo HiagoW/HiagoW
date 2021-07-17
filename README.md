@@ -135,7 +135,7 @@ courses = [
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=TalkingData-FraudDetection&show_owner=true)](https://github.com/HiagoW/TalkingData-FraudDetection)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=GrupoBimbo-InventoryDemand&show_owner=true)](https://github.com/HiagoW/GrupoBimbo-InventoryDemand)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=GrupoBimbo-InventoryDemand&show_owner=true)](https://github.com/HiagoW/GrupoBimbo-InventoryDemand) 
 
 ### Python
 
