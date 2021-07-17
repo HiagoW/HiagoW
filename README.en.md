@@ -135,6 +135,9 @@ courses = [
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=TalkingData-FraudDetection&show_owner=true)](https://github.com/HiagoW/TalkingData-FraudDetection)
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=GrupoBimbo-InventoryDemand&show_owner=true)](https://github.com/HiagoW/GrupoBimbo-InventoryDemand)
+
 ### Python
 
 * <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-svm" target="_blank">Getting started with Titanic - SVM (Kaggle)</a>
