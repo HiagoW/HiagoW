@@ -131,7 +131,7 @@ courses = [
 
 ### R
 
-* <a href="https://www.kaggle.com/hiagow/data-anlysis-with-covid-19-data-from-brazil-5-21" target="_blank"> Análise de dados de COVID-19 no Brasil (Kaggle) </a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-Covid-Brasil&show_owner=true)](https://github.com/HiagoW/Analise-Dados-Covid-Brasil)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=TalkingData-FraudDetection&show_owner=true)](https://github.com/HiagoW/TalkingData-FraudDetection)
 
