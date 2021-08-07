@@ -148,6 +148,10 @@ courses = [
 * <a href="https://www.dropbox.com/s/qrel3upr7z462k2/Dashboard.pdf?dl=0" target="_blank">Pedidos de crédito com garantia de imóvel</a>
 * <a href="https://1drv.ms/b/s!As-YQNdbq695rkUdSZFAZ7YDyAwp?e=W7VgDM" target="_blank">Dashboard - Automóveis</a>
 
+### Qlik Sense (+ Python)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-PROUNI&show_owner=true)](https://github.com/HiagoW/Analise-Dados-PROUNI) 
+
 ## Dados do GitHub :bar_chart:
 
 <!-- Source: https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/code-styled/AnhellO.md -->
