@@ -119,6 +119,10 @@ courses = [
       {
         "name": "Shell script - Manipulando Arquivos",
         "hours": 2
+      },
+      {
+        "name": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
+        "hours": 4
       }
   }
 ]
