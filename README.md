@@ -123,6 +123,10 @@ courses = [
       {
         "name": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
         "hours": 4
+      },
+      {
+        "name": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
+        "hours": 4
       }
   }
 ]
