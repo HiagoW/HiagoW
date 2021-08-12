@@ -65,6 +65,11 @@ courses = [
         "name": "Big Data Analytics com R e Microsoft Azure Machine Learning",
         "hours": 108,
         "completed_at": 18-06-2021
+      },
+      {
+        "name": "Big Data Real-Time Analytics com Python e Spark",
+        "hours": 64,
+        "completed_at": 06-08-2021
       }
     ]
   },
