@@ -132,6 +132,10 @@ courses = [
       {
         "name": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
         "hours": 4
+      },
+      {
+        "name": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
+        "hours": 4
       }
   }
 ]
