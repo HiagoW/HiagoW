@@ -136,6 +136,10 @@ courses = [
       {
         "name": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
         "hours": 4
+      },
+      {
+        "name": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
+        "hours": 4
       }
   }
 ]
