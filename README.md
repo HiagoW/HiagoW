@@ -144,6 +144,11 @@ courses = [
       {
         "name": "Criando pipelines de dados eficientes com Spark e Python",
         "hours": 4
+      },
+      ,
+      {
+        "name": "Criando pipelines de dados eficientes com Spark e Python",
+        "hours": 4
       }
   }
 ]
