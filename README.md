@@ -140,6 +140,10 @@ courses = [
       {
         "name": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
         "hours": 4
+      },
+      {
+        "name": "Criando pipelines de dados eficientes com Spark e Python",
+        "hours": 4
       }
   }
 ]
