@@ -100,51 +100,49 @@ courses = [
 
 ```python
 courses = [
-  { 
-    "name": "Banco Carrefour Data Engineer",
-    "from": "Digital Innovation One Inc.",
-    "status": "On course",
-    "sub_courses" : [
-      {
-        "name": "Introdução a orquestração de contêineres com Docker",
-        "hours": 4
-      },
-      {
-        "name": "Arquitetura de Sistemas Avançado",
-        "hours": 3
-      },
-      {
-        "name": "Conceitos e melhores práticas com bancos de dados PostgreSQL",
-        "hours": 6
-      },
-      {
-        "name": "Introdução ao MongoDB e Bancos de Dados NoSQL",
-        "hours": 6
-      },
-      {
-        "name": "Shell script - Manipulando Arquivos",
-        "hours": 2
-      },
-      {
-        "name": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
-        "hours": 4
-      },
-      {
-        "name": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
-        "hours": 4
-      },
-      {
-        "name": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
-        "hours": 4
-      },
-      {
-        "name": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
-        "hours": 4
-      },
-      {
-        "name": "Criando pipelines de dados eficientes com Spark e Python",
-        "hours": 4
-      }
+  {
+    "name": "Introdução a orquestração de contêineres com Docker",
+    "hours": 4
+  },
+  {
+    "name": "Arquitetura de Sistemas Avançado",
+    "hours": 3
+  },
+  {
+    "name": "Conceitos e melhores práticas com bancos de dados PostgreSQL",
+    "hours": 6
+  },
+  {
+    "name": "Introdução ao MongoDB e Bancos de Dados NoSQL",
+    "hours": 6
+  },
+  {
+    "name": "Shell script - Manipulando Arquivos",
+    "hours": 2
+  },
+  {
+    "name": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
+    "hours": 4
+  },
+  {
+    "name": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
+    "hours": 4
+  },
+  {
+    "name": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
+    "hours": 4
+  },
+  {
+    "name": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
+    "hours": 4
+  },
+  {
+    "name": "Criando pipelines de dados eficientes com Spark e Python",
+    "hours": 4
+  },
+  {
+    "name": "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc",
+    "hours": 2
   }
 ]
 ```
