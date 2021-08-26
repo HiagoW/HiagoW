@@ -143,6 +143,10 @@ courses = [
   {
     "name": "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc",
     "hours": 2
+  },
+  {
+    "name": "Explorando o poder do NoSQL com Cassandra e HBase",
+    "hours": 4
   }
 ]
 ```
