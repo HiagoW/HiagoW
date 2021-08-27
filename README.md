@@ -147,6 +147,10 @@ courses = [
   {
     "name": "Explorando o poder do NoSQL com Cassandra e HBase",
     "hours": 4
+  },
+  {
+    "name": "Introdução a Engenharia de Dados na AWS",
+    "hours": 2
   }
 ]
 ```
