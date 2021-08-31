@@ -151,6 +151,14 @@ courses = [
   {
     "name": "Introdução a Engenharia de Dados na AWS",
     "hours": 2
+  },
+  {
+    "name": "Introdução a Engenharia de Dados na Azure",
+    "hours": 1
+  },
+  {
+    "name": "Introdução à Mensageria na Nuvem Com Kafka e Python",
+    "hours": 1
   }
 ]
 ```
