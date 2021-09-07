@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
 <p>
-  I'm currently working with Web Development but I'm looking for an oportunity to start working with data. I have some courses in Data Analysis and professional experience with data extraction, storage, transformation and report generation with Python (Pandas, Numpy, Matplotlib, Seaborn). I love working with data, I believe it is a powerful resource, and if it is treated carefully and with the right techniques can generate precious insights.
+  I'm currently working as a Data Engineer Junior at <a href="https://www.zenvia.com">Zenvia</a>. I have some courses in Data Analysis and professional experience with data extraction, storage, transformation and report generation with Python (Pandas, Numpy, Matplotlib, Seaborn). I love working with data, I believe it is a powerful resource, and if it is treated carefully and with the right techniques can generate precious insights.
   
   I'm taking the <a href="https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados" target="_blank">Data Scientist Formation at Data Science Academy</a>, a 452 hours formation with 6 courses that covers subjects such as: R, Python, Spark, Hadoop, Business Analytics, Machine Learning, Dashboard design, Data Visualization and other technologies.
 </p>
@@ -159,6 +159,10 @@ courses = [
   {
     "name": "Introdução à Mensageria na Nuvem Com Kafka e Python",
     "hours": 1
+  },
+  {
+    "name": "Criando seu Ecossistema de Big Data na Nuvem",
+    "hours": 2
   }
 ]
 ```
