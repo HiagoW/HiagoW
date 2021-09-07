@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
 <p>
-  Atualmente eu trabalho como Data Engineer Junior. Possuo alguns cursos em análise de dados e tenho experiência profissional em extração de dados, armazenamento, transformação e geração de relatórios com Python (Pandas, Numpy, Matplotlib, Seaborn). Eu amo trabalhar com dados, acredito que são recursos poderosos, e que se tratados corretamente podem gerar insights preciosos.
+  Atualmente eu trabalho como Data Engineer Junior na empresa <a href="https://www.zenvia.com">Zenvia</a>. Possuo alguns cursos em análise de dados e tenho experiência profissional em extração de dados, armazenamento, transformação e geração de relatórios com Python (Pandas, Numpy, Matplotlib, Seaborn). Eu amo trabalhar com dados, acredito que são recursos poderosos, e que se tratados corretamente podem gerar insights preciosos.
   
   Atualmente estou cursando a <a href="https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados" target="_blank">Formação Cientista de Dados da Data Science Academy</a>, uma formação com 452 horas e 6 cursos que abordam assuntos como: R, Python, Spark, Hadoop, Business Analytics, Machine Learning, Design de Dashboards, Visualização de Dados e outras tecnologias.
 </p>
