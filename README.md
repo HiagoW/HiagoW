@@ -21,19 +21,33 @@ Here are some ideas to get you started:
 
 <div>
 <p>
-  Atualmente eu trabalho como Data Engineer Junior na empresa <a href="https://www.zenvia.com">Zenvia</a>. Possuo alguns cursos em análise de dados e tenho experiência profissional em extração de dados, armazenamento, transformação e geração de relatórios com Python (Pandas, Numpy, Matplotlib, Seaborn). Eu amo trabalhar com dados, acredito que são recursos poderosos, e que se tratados corretamente podem gerar insights preciosos.
-  
-  Atualmente estou cursando a <a href="https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados" target="_blank">Formação Cientista de Dados da Data Science Academy</a>, uma formação com 452 horas e 6 cursos que abordam assuntos como: R, Python, Spark, Hadoop, Business Analytics, Machine Learning, Design de Dashboards, Visualização de Dados e outras tecnologias.
+  Sou formado em Técnico em Informática pelo Instituto Federal Catarinense e graduado em Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná.
+
+  Tenho experiência em Desenvolvimento Web, com as linguagens Java (Spring e JSP) e PHP; Front end com HTML, CSS, Javascript e Vue.js; Bancos de dados PostgreSQL e MySQL; Mobile com React Native.
+
+  Sou autodidata, motivado, focado, busco sempre aprender, compartilhar conhecimentos. Gosto de utilizar a tecnologia para resolução de problemas.
 </p>
   
   📃 <a href="https://1drv.ms/b/s!As-YQNdbq695rkb355ybXAp91DkZ?e=0zRz9i">Baixe meu currículo aqui</a>
 </div>
 
-### Linguagens de programação 🌐
+### Back-end 🌐
 <hr>
 
-| [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" title="Python" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-128.png" alt="R" title="R" width="48">](#) | [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="php"  title="PHP" width="48">](#) | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-256.png" alt="java" title="Java" width="48">](#) | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" title="Javascript"  width="48">](#) | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" alt="jquery" title="JQuery" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="vuejs" title='VueJS' width="48">](#) | [<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="react-native" title="React Native" width="48">](#)
-|---|---|---|---|---|---|---|---|
+| [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-256.png" alt="java" title="Java" width="48">](#) | [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="php"  title="PHP" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" title="Python" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-128.png" alt="R" title="R" width="48">](#)
+|---|---|---|---|
+
+### Front-end
+<hr>
+
+| [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" title="Javascript"  width="48">](#) | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" alt="jquery" title="JQuery" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="vuejs" title='VueJS' width="48">](#)
+|---|---|---|
+
+### Mobile
+<hr>
+
+| [<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="react-native" title="React Native" width="48">](#)
+|---|
 
 ### Bancos de Dados 💿
 <hr>
@@ -41,7 +55,7 @@ Here are some ideas to get you started:
 | [<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgre-sql" title="Postgre SQL" width="48">](#) | [<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" title="MySQL" width="48">](#) | [<img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" alt="cassandra" title="Cassandra" width="48">](#) | [<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" title="Redis" width="48">](#) | [<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo-db" title="Mongo DB" width="48">](#)
 |---|---|---|---|---|
  
-### Outras Ferramentas 🛠️
+<!-- ### Outras Ferramentas 🛠️
 <hr>
 
 * Pandas
@@ -194,6 +208,8 @@ courses = [
 ### Qlik Sense (+ Python)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-PROUNI&show_owner=true)](https://github.com/HiagoW/Analise-Dados-PROUNI) 
+
+-->
 
 ## Dados do GitHub :bar_chart:
 
