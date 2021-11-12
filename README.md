@@ -102,12 +102,12 @@ courses = [
   },
   {
     "name": "Android Basics"
-    "platform": "Udacity",
+    "platform": "Udacity"
   },
   {
     "name": "Django Web Applications"
-    "platform": "Microsoft",
-  },
+    "platform": "Microsoft"
+  }
 ]
 ```
 
