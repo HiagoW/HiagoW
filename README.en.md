@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>
   I have a technical course in Computing for 'Instituto Federal Catarinense' and I'm graduated in System Analysis and Development for Federal University of Paraná.
 
-  I have experience as Web Developer, using Java (Spring e JSP) e PHP; Front end with HTML, CSS, Javascript e Vue.js; Databases PostgreSQL e MySQL; Mobile with React Native.
+  I have experience as Web Developer, using Java (Spring e JSP) e PHP; Front end with HTML, CSS, Javascript e Vue.js; Databases PostgreSQL e MySQL; Mobile with React Native and Android.
 
   I'm a self-leaner, motivated, focused, I'm always looking for Knowledge, and I like to share this Knowledge. I like to use technology to solve problemas
 </p>
@@ -63,153 +63,81 @@ Here are some ideas to get you started:
 * Numpy
 * Seaborn
 * PowerBI 
+-->
 
-## Cursos em análise de dados 📈
-
-<hr>
-
-```python
-courses = [
-  {
-    "name": "Formação Cientista de Dados",
-    "from": "Data Science Academy",
-    "status": "On course",
-    "sub_courses": [
-      {
-        "name": "Big Data Analytics com R e Microsoft Azure Machine Learning",
-        "hours": 108,
-        "completed_at": 18-06-2021
-      },
-      {
-        "name": "Big Data Real-Time Analytics com Python e Spark",
-        "hours": 64,
-        "completed_at": 06-08-2021
-      }
-    ]
-  },
-  {
-    "name": "Microsoft Power BI para Data Science"
-    "from": "Data Science Academy"
-    "hours": 72,
-    "completed_at": 15-02-2020
-  },
-  {
-    "name": "Python Fundamentos para Análise de Dados"
-    "from": "Data Science Academy"
-    "hours": 54,
-    "completed_at": 16-01-2020
-  },
-  {
-    "name": "Neural Networks and Deep Learning"
-    "from": "DeepLearning.AI"
-    "hours": 25,
-    "completed_at": 04-04-2021
-  }
-]
-```
-
-## Cursos em engenharia de dados ⚙
+## Courses 📈
 
 <hr>
 
-```python
+```json
 courses = [
   {
-    "name": "Introdução a orquestração de contêineres com Docker",
-    "hours": 4
+    "name": "Complete Web Development",
+    "platform": "Udemy",
+    "hours": 34,5
   },
   {
-    "name": "Arquitetura de Sistemas Avançado",
-    "hours": 3
+    "name": "Complete Web Design",
+    "platform": "Origamid",
+    "hours": 44
   },
   {
-    "name": "Conceitos e melhores práticas com bancos de dados PostgreSQL",
-    "hours": 6
+    "name": "Java Fundamentals",
+    "platform": "Udemy",
+    "hours": 12
   },
   {
-    "name": "Introdução ao MongoDB e Bancos de Dados NoSQL",
-    "hours": 6
+    "name": "Spring Boot API Rest",
+    "platform": "Alura",
+    "hours": 8
   },
   {
-    "name": "Shell script - Manipulando Arquivos",
-    "hours": 2
+    "name": "Vue.js",
+    "platform": "Alura",
+    "hours": 36
   },
   {
-    "name": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
-    "hours": 4
+    "name": "React Native",
+    "platform": "Udemy",
+    "hours": 44,5
   },
   {
-    "name": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
-    "hours": 4
+    "name": "Android Basics"
+    "platform": "Udacity",
   },
   {
-    "name": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
-    "hours": 4
+    "name": "Django Web Applications"
+    "platform": "Microsoft",
   },
-  {
-    "name": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
-    "hours": 4
-  },
-  {
-    "name": "Criando pipelines de dados eficientes com Spark e Python",
-    "hours": 4
-  },
-  {
-    "name": "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc",
-    "hours": 2
-  },
-  {
-    "name": "Explorando o poder do NoSQL com Cassandra e HBase",
-    "hours": 4
-  },
-  {
-    "name": "Introdução a Engenharia de Dados na AWS",
-    "hours": 2
-  },
-  {
-    "name": "Introdução a Engenharia de Dados na Azure",
-    "hours": 1
-  },
-  {
-    "name": "Introdução à Mensageria na Nuvem Com Kafka e Python",
-    "hours": 1
-  },
-  {
-    "name": "Criando seu Ecossistema de Big Data na Nuvem",
-    "hours": 1
-  }
 ]
 ```
 
-## Projetos
-
-### Análise de dados
+## Projects 
 <hr/>
 
-### R
+### Java
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-Covid-Brasil&show_owner=true)](https://github.com/HiagoW/Analise-Dados-Covid-Brasil)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=SIJOGA&show_owner=true)](https://github.com/HiagoW/SIJOGA)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=TalkingData-FraudDetection&show_owner=true)](https://github.com/HiagoW/TalkingData-FraudDetection)
+### PHP/Laravel
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=GrupoBimbo-InventoryDemand&show_owner=true)](https://github.com/HiagoW/GrupoBimbo-InventoryDemand) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=IntercampiUFPR&show_owner=true)](https://github.com/HiagoW/IntercampiUFPR)
 
-### Python
+### React Native
 
-* <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-svm" target="_blank">Getting started with Titanic - SVM (Kaggle)</a>
-* <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-randomforest" target="_blank">Getting started with Titanic - Random Forest (Kaggle)</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Tasks-Online-React&show_owner=true)](https://github.com/HiagoW/Tasks-Online-React)
+(Node.Js Backend below)
 
-### Power BI
+### Node.js
 
-* <a href="https://1drv.ms/b/s!As-YQNdbq695rjy8Vt1mSqSLMt-q?e=NZeFRN" target="_blank">Dashboard - Marketing</a>
-* <a href="https://www.dropbox.com/s/qrel3upr7z462k2/Dashboard.pdf?dl=0" target="_blank">Pedidos de crédito com garantia de imóvel</a>
-* <a href="https://1drv.ms/b/s!As-YQNdbq695rkUdSZFAZ7YDyAwp?e=W7VgDM" target="_blank">Dashboard - Automóveis</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Tasks-Backend-Node&show_owner=true)](https://github.com/HiagoW/Tasks-Backend-Node)
+(Tasks-Online-React project Backend)
 
-### Qlik Sense (+ Python)
+### Java/Android
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-PROUNI&show_owner=true)](https://github.com/HiagoW/Analise-Dados-PROUNI) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=FinApp&show_owner=true)](https://github.com/HiagoW/FinApp)
 
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=HarrysQuiz&show_owner=true)](https://github.com/HiagoW/HarrysQuiz)
 
 ## GitHub Data :bar_chart:
 
