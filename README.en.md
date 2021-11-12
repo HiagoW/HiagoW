@@ -37,17 +37,17 @@ Here are some ideas to get you started:
 | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-256.png" alt="java" title="Java" width="48">](#) | [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="php"  title="PHP" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" title="Python" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-128.png" alt="R" title="R" width="48">](#)
 |---|---|---|---|
 
-### Front-end
+### Front-end 💻
 <hr>
 
 | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" title="Javascript"  width="48">](#) | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" alt="jquery" title="JQuery" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="vuejs" title='VueJS' width="48">](#)
 |---|---|---|
 
-### Mobile
+### Mobile 📱
 <hr>
 
-| [<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="react-native" title="React Native" width="48">](#)
-|---|
+| [<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="react-native" title="React Native" width="48">](#) | [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-256.png" alt="react-native" title="Android" width="48">](#)
+|---|---|
 
 ### Databases 💿
 <hr>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 * PowerBI 
 -->
 
-## Courses 📈
+## Courses 📚
 
 <hr>
 
@@ -103,16 +103,16 @@ courses = [
   },
   {
     "name": "Android Basics"
-    "platform": "Udacity",
+    "platform": "Udacity"
   },
   {
     "name": "Django Web Applications"
-    "platform": "Microsoft",
-  },
+    "platform": "Microsoft"
+  }
 ]
 ```
 
-## Projects 
+## Projects 📁
 <hr/>
 
 ### Java
