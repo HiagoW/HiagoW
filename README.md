@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>
   Sou formado em Técnico em Informática pelo Instituto Federal Catarinense e graduado em Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná.
 
-  Tenho experiência em Desenvolvimento Web, com as linguagens Java (Spring e JSP) e PHP; Front end com HTML, CSS, Javascript e Vue.js; Bancos de dados PostgreSQL e MySQL; Mobile com React Native.
+  Tenho experiência em Desenvolvimento Web, com as linguagens Java (Spring e JSP) e PHP; Front end com HTML, CSS, Javascript e Vue.js; Bancos de dados PostgreSQL e MySQL; Mobile com React Native e Android.
 
   Sou autodidata, motivado, focado, busco sempre aprender, compartilhar conhecimentos. Gosto de utilizar a tecnologia para resolução de problemas.
 </p>
@@ -62,124 +62,54 @@ Here are some ideas to get you started:
 * Matplotlib
 * Numpy
 * Seaborn
-* PowerBI 
+* PowerBI -->
 
-## Cursos em análise de dados 📈
+## Cursos 📈
 
 <hr>
 
-```python
+```json
 courses = [
   {
-    "name": "Formação Cientista de Dados",
-    "from": "Data Science Academy",
-    "status": "On course",
-    "sub_courses": [
-      {
-        "name": "Big Data Analytics com R e Microsoft Azure Machine Learning",
-        "hours": 108,
-        "completed_at": 18-06-2021
-      },
-      {
-        "name": "Big Data Real-Time Analytics com Python e Spark",
-        "hours": 64,
-        "completed_at": 06-08-2021
-      }
-    ]
+    "name": "Desenvolvimento Web Completo",
+    "platform": "Udemy",
+    "hours": 34,5
   },
   {
-    "name": "Microsoft Power BI para Data Science"
-    "from": "Data Science Academy"
-    "hours": 72,
-    "completed_at": 15-02-2020
+    "name": "Web Design Completo",
+    "platform": "Origamid",
+    "hours": 44
   },
   {
-    "name": "Python Fundamentos para Análise de Dados"
-    "from": "Data Science Academy"
-    "hours": 54,
-    "completed_at": 16-01-2020
+    "name": "Java Fundamentos",
+    "platform": "Udemy",
+    "hours": 12
   },
   {
-    "name": "Neural Networks and Deep Learning"
-    "from": "DeepLearning.AI"
-    "hours": 25,
-    "completed_at": 04-04-2021
-  }
+    "name": "Spring Boot API Rest",
+    "platform": "Alura",
+    "hours": 8
+  },
+  {
+    "name": "Vue.js",
+    "platform": "Alura",
+    "hours": 36
+  },
+  {
+    "name": "React Native",
+    "platform": "Udemy",
+    "hours": 44,5
+  },
+  {
+    "name": "Android Basics"
+    "platform": "Udacity",
+  },
+  {
+    "name": "Django Web Applications"
+    "platform": "Microsoft",
+  },
 ]
 ```
-
-## Cursos em engenharia de dados ⚙
-
-<hr>
-
-```python
-courses = [
-  {
-    "name": "Introdução a orquestração de contêineres com Docker",
-    "hours": 4
-  },
-  {
-    "name": "Arquitetura de Sistemas Avançado",
-    "hours": 3
-  },
-  {
-    "name": "Conceitos e melhores práticas com bancos de dados PostgreSQL",
-    "hours": 6
-  },
-  {
-    "name": "Introdução ao MongoDB e Bancos de Dados NoSQL",
-    "hours": 6
-  },
-  {
-    "name": "Shell script - Manipulando Arquivos",
-    "hours": 2
-  },
-  {
-    "name": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
-    "hours": 4
-  },
-  {
-    "name": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
-    "hours": 4
-  },
-  {
-    "name": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
-    "hours": 4
-  },
-  {
-    "name": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
-    "hours": 4
-  },
-  {
-    "name": "Criando pipelines de dados eficientes com Spark e Python",
-    "hours": 4
-  },
-  {
-    "name": "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc",
-    "hours": 2
-  },
-  {
-    "name": "Explorando o poder do NoSQL com Cassandra e HBase",
-    "hours": 4
-  },
-  {
-    "name": "Introdução a Engenharia de Dados na AWS",
-    "hours": 2
-  },
-  {
-    "name": "Introdução a Engenharia de Dados na Azure",
-    "hours": 1
-  },
-  {
-    "name": "Introdução à Mensageria na Nuvem Com Kafka e Python",
-    "hours": 1
-  },
-  {
-    "name": "Criando seu Ecossistema de Big Data na Nuvem",
-    "hours": 1
-  }
-]
-``` -->
 
 ## Projetos 
 <hr/>
