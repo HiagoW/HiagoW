@@ -179,37 +179,35 @@ courses = [
     "hours": 1
   }
 ]
-```
+``` -->
 
-## Projetos
-
-### Análise de dados
+## Projetos 
 <hr/>
 
-### R
+### Java
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-Covid-Brasil&show_owner=true)](https://github.com/HiagoW/Analise-Dados-Covid-Brasil)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=SIJOGA&show_owner=true)](https://github.com/HiagoW/SIJOGA)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=TalkingData-FraudDetection&show_owner=true)](https://github.com/HiagoW/TalkingData-FraudDetection)
+### PHP/Laravel
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=GrupoBimbo-InventoryDemand&show_owner=true)](https://github.com/HiagoW/GrupoBimbo-InventoryDemand) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=IntercampiUFPR&show_owner=true)](https://github.com/HiagoW/IntercampiUFPR)
 
-### Python
+### React Native
 
-* <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-svm" target="_blank">Getting started with Titanic - SVM (Kaggle)</a>
-* <a href="https://www.kaggle.com/hiagow/getting-started-with-titanic-randomforest" target="_blank">Getting started with Titanic - Random Forest (Kaggle)</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Tasks-Online-React&show_owner=true)](https://github.com/HiagoW/Tasks-Online-React)
+(Backend em Node.Js abaixo)
 
-### Power BI
+### Node.js
 
-* <a href="https://1drv.ms/b/s!As-YQNdbq695rjy8Vt1mSqSLMt-q?e=NZeFRN" target="_blank">Dashboard - Marketing</a>
-* <a href="https://www.dropbox.com/s/qrel3upr7z462k2/Dashboard.pdf?dl=0" target="_blank">Pedidos de crédito com garantia de imóvel</a>
-* <a href="https://1drv.ms/b/s!As-YQNdbq695rkUdSZFAZ7YDyAwp?e=W7VgDM" target="_blank">Dashboard - Automóveis</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Tasks-Backend-Node&show_owner=true)](https://github.com/HiagoW/Tasks-Backend-Node)
+(Backend do projeto Tasks-Online-React)
 
-### Qlik Sense (+ Python)
+### Java/Android
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Analise-Dados-PROUNI&show_owner=true)](https://github.com/HiagoW/Analise-Dados-PROUNI) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=FinApp&show_owner=true)](https://github.com/HiagoW/FinApp)
 
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=HarrysQuiz&show_owner=true)](https://github.com/HiagoW/HarrysQuiz)
+
 
 ## Dados do GitHub :bar_chart:
 
