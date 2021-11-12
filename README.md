@@ -202,7 +202,7 @@ courses = [
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=Tasks-Backend-Node&show_owner=true)](https://github.com/HiagoW/Tasks-Backend-Node)
 (Backend do projeto Tasks-Online-React)
 
-### Java/Android 
+### Java/Android
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HiagoW&repo=FinApp&show_owner=true)](https://github.com/HiagoW/FinApp)
 
