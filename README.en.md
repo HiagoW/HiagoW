@@ -1,4 +1,4 @@
-<a href="https://github.com/HiagoW/HiagoW/blob/main/README.en.md">Read in English</a>
+<a href="https://github.com/HiagoW/HiagoW/blob/main/README.md">Leia em português</a>
 
 ### Hi! 👋 I'm Hiago W. Petris
 
