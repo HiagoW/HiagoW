@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
   Sou autodidata, motivado, focado, busco sempre aprender, compartilhar conhecimentos. Gosto de utilizar a tecnologia para resolução de problemas.
   
-  Alura: https://cursos.alura.com.br/user/hiago-petris
+  <a href="https://cursos.alura.com.br/user/hiago-petris" target="_blank">Meu perfil na Alura</a>
 </p>
   
   📃 <a href="https://1drv.ms/b/s!As-YQNdbq695rkb355ybXAp91DkZ?e=0zRz9i">Baixe meu currículo aqui</a>
