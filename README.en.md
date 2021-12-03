@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
   I'm a self-leaner, motivated, focused, I'm always looking for Knowledge, and I like to share this Knowledge. I like to use technology to solve problemas
 </p>
+  
   <img src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" style="width: 20px; height: 20px"/> <a href="https://cursos.alura.com.br/user/hiago-petris" target="_blank">My Alura profile</a>
+  
   📃 <a href="https://1drv.ms/b/s!As-YQNdbq695rkb355ybXAp91DkZ?e=0zRz9i">Download my curriculum here</a>
 </div>
 
