@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   Tenho experiência em Desenvolvimento Web, com as linguagens Java (Spring e JSP) e PHP; Front end com HTML, CSS, Javascript e Vue.js; Bancos de dados PostgreSQL e MySQL; Mobile com React Native e Android.
 
   Sou autodidata, motivado, focado, busco sempre aprender, compartilhar conhecimentos. Gosto de utilizar a tecnologia para resolução de problemas.
+  
+  Alura: https://cursos.alura.com.br/user/hiago-petris
 </p>
   
   📃 <a href="https://1drv.ms/b/s!As-YQNdbq695rkb355ybXAp91DkZ?e=0zRz9i">Baixe meu currículo aqui</a>
