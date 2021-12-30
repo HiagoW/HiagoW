@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 ### Tests 📊
 <hr>
 
-| [<img src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png" alt="junit" title="JUnit" width="48">](#) | [<img src="https://i2.wp.com/www.codeatest.com/wp-content/uploads/2016/11/mockito-logo.png?fit=800%2C400" alt="mockito" title="Mockito" width="48">](#)
-|---|---|
+| [<img src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png" alt="junit" title="JUnit" width="48">](#) | [<img src="https://i2.wp.com/www.codeatest.com/wp-content/uploads/2016/11/mockito-logo.png?fit=800%2C400" alt="mockito" title="Mockito" width="48">](#) | [<img src="https://w7.pngwing.com/pngs/733/718/png-transparent-cucumber-behavior-driven-development-software-testing-test-automation-selenium-cucumber-leaf-grass-vegetables-thumbnail.png" alt="cucumber" title="Cucumber" width="48">](#)
+|---|---|---|
 
 ### DevOps ⚙
 <hr>
