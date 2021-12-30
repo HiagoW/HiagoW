@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>
   Sou formado em Técnico em Informática pelo Instituto Federal Catarinense e graduado em Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná.
 
-  Tenho experiência em Desenvolvimento Web, com as linguagens Java (Spring e JSP) e PHP; Front end com HTML, CSS, Javascript e Vue.js; Bancos de dados PostgreSQL e MySQL; Mobile com React Native e Android.
+  Tenho experiência em Desenvolvimento Web, com as linguagens Java (Spring e JSP) e PHP; Front end com HTML, CSS, Javascript e Vue.js; Bancos de dados PostgreSQL e MySQL; Mobile com React Native e Android; testes com JUnit, Mockito e Cucumber; e ferramentas DevOps como Docker, Kubernetes e Jenkins.
 
   Sou autodidata, motivado, focado, busco sempre aprender, compartilhar conhecimentos. Gosto de utilizar a tecnologia para resolução de problemas.
   
@@ -31,19 +31,32 @@ Here are some ideas to get you started:
   
   <img src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" style="width: 20px; height: 20px"/> <a href="https://cursos.alura.com.br/user/hiago-petris" target="_blank">Meu perfil na Alura</a>
   
-  📃 <a href="https://1drv.ms/b/s!As-YQNdbq695rkb355ybXAp91DkZ?e=0zRz9i">Baixe meu currículo aqui</a>
+  <!-- ATUALIZAR -->
+ <!-- 📃 <a href="https://1drv.ms/b/s!As-YQNdbq695rkb355ybXAp91DkZ?e=0zRz9i">Baixe meu currículo aqui</a> -->
 </div>
 
 ### Back-end 🌐
 <hr>
 
-| [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-256.png" alt="java" title="Java" width="48">](#) | [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="php"  title="PHP" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" title="Python" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-128.png" alt="R" title="R" width="48">](#)
-|---|---|---|---|
+| [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-java-software-develop-command-language-256.png" alt="java" title="Java" width="48">](#) | [<img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" alt="Spring boot" title="Spring boot" width="48">](#) | [<img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_icon_rgb_1024px_default.png" alt="Quarkus" title="Quarkus" width="48">](#) | [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="php"  title="PHP" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="python" title="Python" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-128.png" alt="R" title="R" width="48">](#)
+|---|---|---|---|---|---|
 
 ### Front-end 💻
 <hr>
 
 | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="javascript" title="Javascript"  width="48">](#) | [<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" alt="jquery" title="JQuery" width="48">](#) | [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="vuejs" title='VueJS' width="48">](#)
+|---|---|---|
+
+### Tests 📊
+<hr>
+
+| [<img src="https://miro.medium.com/max/460/1*ahIiDbsR6s9XgR45nJJ5DA.png" alt="junit" title="JUnit" width="48">](#) | [<img src="https://i2.wp.com/www.codeatest.com/wp-content/uploads/2016/11/mockito-logo.png?fit=800%2C400" alt="mockito" title="Mockito" width="48">](#)
+|---|---|
+
+### DevOps ⚙
+<hr>
+
+| [<img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" title="Docker" width="48">](#) | [<img src="https://camo.githubusercontent.com/b11364e763e22722f395920405578ddaeec83d392b472f69f7eabaa07a77c7a8/68747470733a2f2f61707072656e64612e636f6d2f77702d636f6e74656e742f75706c6f6164732f576562696e61725f4b38533130315f4b38736c6f676f2e706e67" alt="kubernetes" title="Kubernetes" width="48">](#) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" title="Jenkins" width="48">](#)
 |---|---|---|
 
 ### Mobile 📱
@@ -67,7 +80,8 @@ Here are some ideas to get you started:
 * Seaborn
 * PowerBI -->
 
-## Cursos 📚
+<!-- ATUALIZAR -->
+<!-- ## Cursos 📚
 
 <hr>
 
@@ -112,7 +126,7 @@ courses = [
     "platform": "Microsoft"
   }
 ]
-```
+``` -->
 
 ## Projetos 📁
 <hr/>
