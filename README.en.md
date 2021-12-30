@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   I have experience as Web Developer, using Java (Spring e JSP) e PHP; Front end with HTML, CSS, Javascript e Vue.js; Tests with JUnit, Mockito and Cucumber; e DevOps tools like Docker, Kubernetes e Jenkins; Databases PostgreSQL e MySQL; Mobile with React Native and Android.
 
-  I'm a self-leaner, motivated, focused, I'm always looking for Knowledge, and I like to share this Knowledge. I like to use technology to solve problemas
+  I'm a self-leaner, motivated, focused, I'm always looking for knowledge, and I like to share this knowledge. I like to use technology to solve problems.
 </p>
   
   <img src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" style="width: 20px; height: 20px"/> <a href="https://cursos.alura.com.br/user/hiago-petris" target="_blank">My Alura profile</a>
